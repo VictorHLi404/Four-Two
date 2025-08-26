@@ -1,9 +1,9 @@
-const cacheName = "DefaultCompany-Four-Two-1.0";
+const cacheName = "DefaultCompany-Four-Two-1.1";
 const contentToCache = [
-    "Build/Build Folder.loader.js",
-    "Build/Build Folder.framework.js",
-    "Build/Build Folder.data",
-    "Build/Build Folder.wasm",
+    "Build/Four-Two.loader.js",
+    "Build/Four-Two.framework.js",
+    "Build/Four-Two.data",
+    "Build/Four-Two.wasm",
     "TemplateData/style.css"
 
 ];
